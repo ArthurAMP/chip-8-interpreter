@@ -4,9 +4,9 @@ Old code that I pushed to save somewhere, not even sure if it fully works or if 
 
 A few resources that are amazing and helped me out were:
 
-> Guide to making a CHIP-8 emulator by Tobias V. Langhoff
-> Cowgod's Chip-8 Technical Reference v1.0
-> How to write an emulator (CHIP-8 interpreter)
+- Guide to making a CHIP-8 emulator by Tobias V. Langhoff
+- Cowgod's Chip-8 Technical Reference v1.0
+- How to write an emulator (CHIP-8 interpreter)
 
 ### Requirements
 [Emscripten](https://emscripten.org/docs/getting_started/Tutorial.html)
