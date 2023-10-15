@@ -1,7 +1,5 @@
 # chip-8-interpreter
 
-Old code that I pushed to save somewhere, not even sure if it fully works or if the frame rate is janky but it lgtm.
-
 A few resources that are amazing and helped me out were:
 
 - Guide to making a CHIP-8 emulator by Tobias V. Langhoff
